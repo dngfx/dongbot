@@ -1,7 +1,4 @@
-<center>
-<h1>
-DONT USE THIS SOFTWARE<br>
-IT IS NOT GOOD SOFTWARE<br>
-RUN AWAY NOW
-  </h1>
-</center>
+<p align="center">
+  It's good quality code.<br>
+  Download today.
+</p>

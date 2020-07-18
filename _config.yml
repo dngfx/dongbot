@@ -2,7 +2,7 @@ title: MagicBot
 description: Many magical features
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
